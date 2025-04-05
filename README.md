@@ -11,19 +11,24 @@ Tic-Tac-Toe is a classic game played on a 3x3 grid by two players who alternatel
 ## Reference Screenshots
 
 Initial Screen:
-![Initial Screen](/public/initial-screen.png)
+<img width="429" alt="1" src="https://github.com/user-attachments/assets/c0ff3ce0-53e1-4fd5-86dc-2108d875a519" />
+
 
 Player X's turn:
-![Player X's turn](/public/after-player-x-selected.png)
+<img width="440" alt="2" src="https://github.com/user-attachments/assets/461c97b1-ee33-46b7-8841-1f1412e9fdb0" />
+
 
 Player O's turn:
-![Player O's turn](/public/player-o-selected.png)
+<img width="432" alt="3" src="https://github.com/user-attachments/assets/596977fb-1549-49fc-b6c0-a82957106143" />
+
 
 After the game is won:
-![Player X wins](/public/player-x-wins.png)
+<img width="438" alt="4" src="https://github.com/user-attachments/assets/ec9e6340-5e1f-44ef-8b1a-57964ca0c359" />
+
 
 After the game is drawn:
-![Draw](/public/draw.png)
+<img width="395" alt="5" src="https://github.com/user-attachments/assets/67d300b7-b124-4f9d-919d-e5a1817a0151" />
+
 
 ## Requirements
 
